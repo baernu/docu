@@ -1,5 +1,14 @@
 ## Sprint 1
 
 - Planning
-We have some determined some task for the fizz buzz, discussed the order we want to do them in the sprint backlog.
+
+We have determined some tasks and discussed which ones we will include in the backlog for the sprint 1.
   [sprint1 backlog](https://baernu.github.io/docu/)
+
+- Task: Based on video
+
+[Based on video](https://github.com/bfhmea4/mea4_02_repository/issues/2)
+
+This task works according to the principle and procedure of TDD. Which means that first as simple as possible 
+tests are written that fail. Then an attempt is made to improve these tests so that they no longer fail. 
+In addition, further cases are processed and at the end it is checked that the algorithm passes all tests.
