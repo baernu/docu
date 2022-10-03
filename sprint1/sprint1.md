@@ -1,5 +1,8 @@
 ## Sprint 1
 
+For this website go to: https://baernu.github.io/docu
+
+
 - Planning
 
 We have determined some tasks and discussed which ones we will include in the backlog for the sprint 1.
