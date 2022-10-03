@@ -3,7 +3,7 @@
 - Planning
 
 We have determined some tasks and discussed which ones we will include in the backlog for the sprint 1.
-[sprint1 backlog](https://baernu.github.io/docu/)
+[sprint1 backlog](https://github.com/orgs/bfhmea4/projects/4/views/4?layout=board)
 
 - Task: Based on video
 
